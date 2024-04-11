@@ -10,7 +10,7 @@ Este script muestra la zona en la que te encuentras actualmente.
 - **/ZONEP**: Permite cambiar de posición el indicador de zona.
 - **/ZONECONFIG**: Abre un menú de modificación para cambiar el color, el tamaño, la fuente y los flags de la misma.
 
-![Config](https://media.discordapp.net/attachments/1217747170841727040/1223342945944604682/image.png?ex=661981e6&is=66070ce6&hm=ecb5d841f05f31afae0e165dc26c0dee9c946205c82f9fec94c53e4dbff25dfb&=&format=webp&quality=lossless&width=380&height=350)
+![Config](https://github.com/0x73616D/ZoneText/assets/94794277/78ac6d18-2fea-40ca-96c2-d37e2ec65e60)
 
 ## ⚠️ Requisitos:
 - ASI LOADER (incluido con el mod)
@@ -21,4 +21,4 @@ Este script muestra la zona en la que te encuentras actualmente.
 Para adquirir este script contacta conmigo en mi discord: [Aquí](https://discord.com/users/717764929113030756)
 
 ## 👀 Vista dentro del juego:
-![Vista dentro del juego](https://media.discordapp.net/attachments/1217747170841727040/1223342971773255681/image.png?ex=661981ed&is=66070ced&hm=826ca83481e040b52249b784d4e6d9ba801d479d44037531f0cb91dee0c1d957&=&format=webp&quality=lossless)
+![Vista dentro del juego](https://github.com/0x73616D/ZoneText/assets/94794277/4ff29e71-3bed-4c29-8ad0-c490c27005c3)
