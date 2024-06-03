@@ -18,7 +18,7 @@ Este script muestra la zona en la que te encuentras actualmente.
 - Moonloader 026.5 (incluido con el mod)
 
 ## ☄️ Instalación:
-Para adquirir este script contacta conmigo en mi discord: [Aquí](https://discord.com/users/717764929113030756)
+Para adquirir este script contacta conmigo en mi discord: [Aquí](https://discord.com/users/1246311073204670540)
 
 ## 👀 Vista dentro del juego:
 ![Vista dentro del juego](https://github.com/0x73616D/ZoneText/assets/94794277/4ff29e71-3bed-4c29-8ad0-c490c27005c3)
